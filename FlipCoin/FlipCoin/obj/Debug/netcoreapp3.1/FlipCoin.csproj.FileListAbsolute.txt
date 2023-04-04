@@ -1,0 +1,5 @@
+D:\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.csproj.AssemblyReference.cache
+D:\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.AssemblyInfoInputs.cache
+D:\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.AssemblyInfo.cs
+D:\FlipCoin\FlipCoin\obj\Debug\netcoreapp3.1\FlipCoin.csproj.CoreCompileInputs.cache

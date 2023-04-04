@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\bin\Debug\net6.0\SumOfNaturalNmbrs.exe
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\bin\Debug\net6.0\SumOfNaturalNmbrs.deps.json
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\bin\Debug\net6.0\SumOfNaturalNmbrs.runtimeconfig.json
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\bin\Debug\net6.0\SumOfNaturalNmbrs.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\bin\Debug\net6.0\SumOfNaturalNmbrs.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\SumOfNaturalNmbrs.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\SumOfNaturalNmbrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\SumOfNaturalNmbrs.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\SumOfNaturalNmbrs.AssemblyInfo.cs
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\SumOfNaturalNmbrs.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\SumOfNaturalNmbrs.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\refint\SumOfNaturalNmbrs.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\SumOfNaturalNmbrs.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\SumOfNaturalNmbrs.genruntimeconfig.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\SumOfNaturalNmbrs\SumOfNaturalNmbrs\obj\Debug\net6.0\ref\SumOfNaturalNmbrs.dll
