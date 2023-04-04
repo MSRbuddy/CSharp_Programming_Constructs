@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\bin\Debug\net6.0\AdmissionEligiblity.exe
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\bin\Debug\net6.0\AdmissionEligiblity.deps.json
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\bin\Debug\net6.0\AdmissionEligiblity.runtimeconfig.json
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\bin\Debug\net6.0\AdmissionEligiblity.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\bin\Debug\net6.0\AdmissionEligiblity.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\AdmissionEligiblity.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\AdmissionEligiblity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\AdmissionEligiblity.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\AdmissionEligiblity.AssemblyInfo.cs
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\AdmissionEligiblity.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\AdmissionEligiblity.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\refint\AdmissionEligiblity.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\AdmissionEligiblity.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\AdmissionEligiblity.genruntimeconfig.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\AdmissionEligiblity\AdmissionEligiblity\obj\Debug\net6.0\ref\AdmissionEligiblity.dll

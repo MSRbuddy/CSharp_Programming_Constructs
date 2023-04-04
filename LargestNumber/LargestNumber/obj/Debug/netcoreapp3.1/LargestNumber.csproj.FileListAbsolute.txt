@@ -1,0 +1,14 @@
+D:\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.exe
+D:\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.deps.json
+D:\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.runtimeconfig.json
+D:\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.runtimeconfig.dev.json
+D:\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.dll
+D:\LargestNumber\LargestNumber\bin\Debug\netcoreapp3.1\LargestNumber.pdb
+D:\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.csproj.AssemblyReference.cache
+D:\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.AssemblyInfoInputs.cache
+D:\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.AssemblyInfo.cs
+D:\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.csproj.CoreCompileInputs.cache
+D:\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.dll
+D:\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.pdb
+D:\LargestNumber\LargestNumber\obj\Debug\netcoreapp3.1\LargestNumber.genruntimeconfig.cache
