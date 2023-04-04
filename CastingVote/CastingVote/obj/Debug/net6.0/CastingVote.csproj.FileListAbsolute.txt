@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\bin\Debug\net6.0\CastingVote.exe
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\bin\Debug\net6.0\CastingVote.deps.json
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\bin\Debug\net6.0\CastingVote.runtimeconfig.json
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\bin\Debug\net6.0\CastingVote.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\bin\Debug\net6.0\CastingVote.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\CastingVote.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\CastingVote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\CastingVote.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\CastingVote.AssemblyInfo.cs
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\CastingVote.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\CastingVote.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\refint\CastingVote.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\CastingVote.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\CastingVote.genruntimeconfig.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\CastingVote\CastingVote\obj\Debug\net6.0\ref\CastingVote.dll

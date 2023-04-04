@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\bin\Debug\net6.0\EqualOrNot.exe
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\bin\Debug\net6.0\EqualOrNot.deps.json
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\bin\Debug\net6.0\EqualOrNot.runtimeconfig.json
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\bin\Debug\net6.0\EqualOrNot.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\bin\Debug\net6.0\EqualOrNot.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\EqualOrNot.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\EqualOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\EqualOrNot.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\EqualOrNot.AssemblyInfo.cs
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\EqualOrNot.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\EqualOrNot.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\refint\EqualOrNot.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\EqualOrNot.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\EqualOrNot.genruntimeconfig.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\EqualOrNot\EqualOrNot\obj\Debug\net6.0\ref\EqualOrNot.dll
