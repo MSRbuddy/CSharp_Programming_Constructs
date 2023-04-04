@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\bin\Debug\net6.0\WeekDay.exe
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\bin\Debug\net6.0\WeekDay.deps.json
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\bin\Debug\net6.0\WeekDay.runtimeconfig.json
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\bin\Debug\net6.0\WeekDay.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\bin\Debug\net6.0\WeekDay.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\WeekDay.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\WeekDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\WeekDay.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\WeekDay.AssemblyInfo.cs
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\WeekDay.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\WeekDay.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\refint\WeekDay.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\WeekDay.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\WeekDay.genruntimeconfig.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\WeekDay\WeekDay\obj\Debug\net6.0\ref\WeekDay.dll

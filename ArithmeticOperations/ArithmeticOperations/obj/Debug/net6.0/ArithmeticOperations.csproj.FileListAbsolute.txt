@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.exe
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.deps.json
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.runtimeconfig.json
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\bin\Debug\net6.0\ArithmeticOperations.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.AssemblyInfo.cs
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\refint\ArithmeticOperations.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\ArithmeticOperations.genruntimeconfig.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\ArithmeticOperations\ArithmeticOperations\obj\Debug\net6.0\ref\ArithmeticOperations.dll
