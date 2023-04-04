@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.exe
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.deps.json
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.runtimeconfig.json
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.AssemblyInfo.cs
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\refint\PowerOfTwo.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.genruntimeconfig.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\PowerOfTwo\PowerOfTwo\obj\Debug\net6.0\ref\PowerOfTwo.dll

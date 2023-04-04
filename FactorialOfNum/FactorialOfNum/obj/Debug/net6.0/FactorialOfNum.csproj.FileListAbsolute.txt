@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\bin\Debug\net6.0\FactorialOfNum.exe
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\bin\Debug\net6.0\FactorialOfNum.deps.json
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\bin\Debug\net6.0\FactorialOfNum.runtimeconfig.json
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\bin\Debug\net6.0\FactorialOfNum.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\bin\Debug\net6.0\FactorialOfNum.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\FactorialOfNum.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\FactorialOfNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\FactorialOfNum.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\FactorialOfNum.AssemblyInfo.cs
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\FactorialOfNum.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\FactorialOfNum.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\refint\FactorialOfNum.dll
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\FactorialOfNum.pdb
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\FactorialOfNum.genruntimeconfig.cache
+C:\Users\USER\source\BL\ProgrammingConstructs\FactorialOfNum\FactorialOfNum\obj\Debug\net6.0\ref\FactorialOfNum.dll
